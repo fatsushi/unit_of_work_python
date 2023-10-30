@@ -1,1 +1,1 @@
-This source is a sample UNIT OF WORK in Python.
+This is a sample code for UNIT OF WORK written in Python 3.
